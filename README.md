@@ -1,17 +1,17 @@
 # djangorest-react-webshop
 # Запуск back-end:
-Создание виртуального окружения 
-python -m venv tutorial-env
-Активация:
-tutorial-env\Scripts\activate.bat
-python -m pip install -r requirements.txt
-Запуск проекта
-cd libraby_shop
-python manage.py makemigration 
-python manage.py migrate
-python manage.py runserver
+## Создание виртуального окружения 
+### python -m venv tutorial-env
+## Активация:
+### tutorial-env\Scripts\activate.bat
+### python -m pip install -r requirements.txt
+## Запуск проекта
+### cd libraby_shop
+### python manage.py makemigration 
+### python manage.py migrate
+### python manage.py runserver
 # Запуск front-end:
-npm start
+### npm start
 
 В frontend-части была проделана следующая работа:	
  ![image](https://github.com/dazeBoyy/djangorest-react-webshop/assets/66539510/f38df714-aeed-4c21-83fc-07cb04b702df)
