@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+.myP{
+    margin: 0;
+    margin-left: 0.5rem;
+    font-family: 'Kablammo', cursive;
+}
+
+.customFont{
+    font-family: 'Kablammo', cursive;
+}
