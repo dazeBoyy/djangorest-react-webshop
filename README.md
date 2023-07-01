@@ -4,6 +4,7 @@
 python -m venv tutorial-env
 Активация:
 tutorial-env\Scripts\activate.bat
+python -m pip install -r requirements.txt
 Запуск проекта
 cd libraby_shop
 python manage.py makemigration 
